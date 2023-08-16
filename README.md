@@ -1,3 +1,6 @@
 # Aplikasi-login
 Aplikasi dengan fitur login
-menambahkan alur login
+ alur fitur login
+ 1. memasukkan email password
+ 2. validasi email password
+ 3. 
